@@ -1,5 +1,6 @@
 - Removido o mod de estrutura "Moog's Voyager Structures"
 - Removido o mod de estrutura "Moog's Soaring Structures"
 - Removido o mod de estrutura "Moog's End Structures"
-- Removido o mod de estrutura "Moog's Nether Structures"  
+- Removido o mod de estrutura "Moog's Nether Structures"
+
 Obs.: mods removidos por estarem crashando o server.
