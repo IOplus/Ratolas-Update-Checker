@@ -1,1 +1,1 @@
-# Ratolas Update Checker
+# Ratola's Update Checker
