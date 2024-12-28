@@ -1,0 +1,9 @@
+- Mod Banner Claim substituído pelo mod Get Off My Lawn ReServed
+- Adicionado o mod Fishing Real
+- Atualizados os mods: Farmer's Delight, Storage Delight
+- Removido o mod Tide por conflito com o mod Levelz
+- Removido o mod Rolling Down in the Deep por petição dos players
+- Alterada a receita para o item Great Chalice devido a conflito com item de outro mod
+- Alterada a configuração do mod FallingTree para as folhas quebrarem ao invés de cair com o tronco
+- Alterada a configuração do mod Waystones para não gerar em vilas (configuração estava crashando)
+- Alterada a configuração do mod Farmer's Delight para não gerar adubo em vilas (configuração estava crashando)
