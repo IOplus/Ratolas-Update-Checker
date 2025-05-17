@@ -30,7 +30,17 @@
           "generic": "https://github.com/IOplus/Ratolas-Modpack/releases/download/v2.0.0/Ratolas-Modpack-v2.0.0.zip"
         }
       },
-      "updateType": "major"
+      "updateType": "incompatible"
+    },
+    {
+      "id": "2.0.1",
+      "releasedAt": 1747490400000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/IOplus/Ratolas-Modpack/releases/download/v2.0.1/Ratolas-Modpack-v2.0.1.zip"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }

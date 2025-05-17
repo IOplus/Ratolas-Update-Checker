@@ -1,0 +1,1 @@
+- Removido o mod Plasmo Voice pois estava lagando o servidor
