@@ -41,6 +41,16 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "2.1.0",
+      "releasedAt": 1747890000000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/IOplus/Ratolas-Modpack/releases/download/v2.1.0/Ratolas-Modpack-v2.1.0.zip"
+        }
+      },
+      "updateType": "incompatible"
     }
   ]
 }
