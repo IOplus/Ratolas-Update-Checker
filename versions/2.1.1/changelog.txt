@@ -1,0 +1,2 @@
+- Adicionado o mod Bloxy's Skills
+- Desabilitado as habilidades do Improvable Skills que dão conflito com o Bloxy's Skills
